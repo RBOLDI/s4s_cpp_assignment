@@ -1,0 +1,3 @@
+/home/rowan/Documents/cppopdracht/cpp_consumer/backup/backup_src/CMakeFiles/rebuild_cache.dir
+/home/rowan/Documents/cppopdracht/cpp_consumer/backup/backup_src/CMakeFiles/backup_src.dir
+/home/rowan/Documents/cppopdracht/cpp_consumer/backup/backup_src/CMakeFiles/edit_cache.dir

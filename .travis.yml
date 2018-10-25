@@ -4,7 +4,7 @@ cpp:
 before_install:
         - sudo apt-get update
 install:
-        - sudo npm install -y -g json-server
+        - npm install -y -g json-server
         - sudo apt-get install -y g++ git make zlib1g-dev libboost-all-dev libssl-dev cmake
 before_script:
         - cd ServerBackEnd/my-api
